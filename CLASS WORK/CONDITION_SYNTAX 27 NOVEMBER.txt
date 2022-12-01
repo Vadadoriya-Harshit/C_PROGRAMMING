@@ -1,0 +1,119 @@
+Conditional Statements: It helps to take decision.
+
+1) simple if
+
+		syntax: 
+
+			if(condition)
+			{
+				statement;
+			}
+			
+
+2) if/else
+		syntax:
+
+			if(condition)
+			{
+				statement;
+			}
+			else
+			{
+				statement;
+			}
+
+		
+3) Nested if/else
+
+		syntax :
+
+			if(condition)
+			{
+				if(condition)
+				{
+					statement;
+				}
+				else
+				{
+					statement;
+				}
+			}
+			else
+			{
+				if(condition)
+				{
+					statement;
+				}
+				else
+				{
+					statement;
+				}
+			}
+
+
+4) Ladder if/else
+
+		syntax : 
+		
+			if(condition)
+			{
+				statement;
+			}
+			else if(condition)
+			{
+				statement;
+			}
+			else if(condition)
+			{
+				statement;
+			}
+			else if(condition)
+			{
+				statement;
+			}
+			else
+			{
+				statement;
+			}
+
+
+
+5)switch statement.
+
+	syntax: 
+		switch(condition)
+		{
+			case type:statement
+				  break;
+			case type:statement
+				  break;
+			case type:statement
+				  break;
+			.
+			.
+			.
+			default :statement
+				 break;
+		}	
+
+		
+
+
+Jumping keywords;
+
+1)break.
+2)continue.
+3)goto.
+
+Comments : 
+
+1) Single-line :   //
+
+2) Multi-Line  : /*  code  */
+
+
+
+
+
+
+
