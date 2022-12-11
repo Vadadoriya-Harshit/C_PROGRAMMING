@@ -31,7 +31,7 @@ void main()
 	}
 	else if(choice==4)
 	{
-		printf("\n\t\tDivision : %.2f",((float)a/b));
+		printf("\n\t\tDivision : %f",((float)a/b));
 	}
 	else 
 	{
