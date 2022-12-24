@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main( char addanother)
+void food()
 {
 	int choice,qty;
 	float price,amt,totalamt;
-	char ans;
+	char ans,addanother;
 	printf("\n\n\t\t\xb2\xb2\xb2\xb2\xb2\xb2\xb2\xb2 FOOD BILLING SYSTEM \xb2\xb2\xb2\xb2\xb2\xb2\xb2");
 	do
 	{
@@ -52,4 +52,8 @@ void main( char addanother)
      //final bill//
      printf("\n\n\t\t THE FINAL BILL AMOUNT IS : %2.f",totalamt);
      
+}
+void main()
+{
+	food();
 }
