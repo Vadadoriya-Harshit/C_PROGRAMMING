@@ -1,0 +1,220 @@
+
+             IDENTIFY THR NOUN AND TYPE OF NOUN
+
+
+
+
+1. Tagore was a great poet.
+  (1)Tagore =proper noun
+  (2)poet   =common noun
+
+2. Robert scored forty runs that day.
+  (1)Robert =proper noun
+  (2)fourty runs=countable noun
+
+3. I saw the actor in Bombay on Sunday.
+   (1)actor =common noun
+   (2)Bombay=proper noun
+
+4. My dog is called Sony.
+   (1)dog =common noun
+   (2)sony =proper noun
+
+5. The boy has gone to school.
+   (1)boy =common noun
+   (2)school =common noun
+
+6. Padma is staying with her aunt in Bangalore.
+   (1)padma =proper noun
+   (2)Bangalore =proper noun
+
+7. May is usually the hottest month.
+   (1)May =  proper noun
+   (2)Month =common noun
+
+8. You should show respect for your teachers.
+   (1)respect =abstract noun
+   (2)teacher =common noun
+
+9. Our soldiers fought with great courage.
+   (1)soldier =common noun
+   (2)courage =abstract noun
+
+10. There is truth in his story.
+   (1)truth =abstract noun
+   (2)story =common noun
+
+11. My friend listened with pleasure to the beautiful music.
+   (1)friend =common noun
+   (2)music =common noun
+
+12. The girl lost her parents in childhood.
+   (1)girl=common noun
+   (2)childhood=proper noun
+
+13. The women stood there in fear.
+   (1)women =common noun
+   (2)fear =abstract noun
+
+14. She felt sorrow for the death of her dog.
+   (1)sorrow =abstract noun
+   (2)dog =common noun
+
+15. The crowd cheered the cricketer.
+   (1)crowd =concrete noun
+   (2)cricketer =common noun
+
+16. The police have caught the theif.
+   (1)police = common noun
+   (2)thief = common noun
+
+17. The crew of the ship was attacked.
+   (1)crew =concrete noun
+   (2)ship =proper noun
+
+18. I am a member of the committee.
+   (1)commitee =concrete noun
+   (2)member =common noun
+
+19. There is a herd of cattle in the field.
+   (1)herd of cattle =concrete noun
+   (2)field = common noun
+
+20. I can see a fleet of boats on the sea.
+   (1)fleet of boats =concrete noun
+   (2)sea  = proper noun
+
+
+21. There is a group of tall trees besides the river.
+    (1)group of tall trees=concrete noun
+    (2)the river = common noun
+
+22. Mohan and I are in the same class.
+    (1)mohan =proper noun
+    (2)class =common noun
+
+23. There is a pile of books on the table.
+    (1)pile of books =concrete noun
+    (2)table =
+
+24. A team of doctors worked all night to save her life.
+    (1) team of doctors =concrete noun
+    (2)life =common noun
+
+25. My father doesn’t take sugar in tea.
+    (1)father =common noun
+    (2)sugar = uncountable noun
+    (3)tea = uncountable noun
+
+26. Oil floats on water.
+    (1)oil = uncountable noun
+    (2)water = uncountable noun
+
+27. Gold is a precious metal.
+    (1)gold = common noun
+    (2) metal = common noun
+
+28. I take bread and butter in the morning.
+    (1)bread = proper noun
+    (2)butter =uncountable noun
+
+29. The tin is empty. Who has eaten the cookies?
+    (1)tin =proper noun
+    (2)cookies =proper noun
+
+30. She has gone to market to buy meat and vegetables.
+    (1)market = common noun
+    (2)vegetables = common noun
+
+31. The angry mob pelted stones at the police.
+   (1)stones = countable noun
+   (2)police = common noun
+
+32. Honesty is the best policy.
+   (1)honesty = abstract noun
+   (2)policy =proper noun
+
+33. You must always speak the truth.
+   (1)truth =abstract noun
+
+34. Julie is my youngest sister.
+    (1)julie =proper noun
+    (2)sister =common noun
+
+35. Solomon was famous for his wisdom.
+    (1)solomon =proper noun
+    (2)wisdom =abstract noun
+
+36. Birds make their nests in trees.
+    (1)birds =common noun
+    (2)trees =proper noun
+
+37. A committee was appointed to study the situation.
+    (1)committee =concrete noun
+ 
+
+38. Nelson is known for his victory at Trafalgar.
+    (1)nelson =proper noun
+    (2)trafalgar =common noun
+
+39. The boys were congratulated on their performance.
+    (1)boys =common noun
+    (2)congratulate=abstract noun
+
+40. He gave me a bunch of grapes.
+    (1)bunch of grapes =concrete noun
+
+41. The children sang the national anthem.
+    (1)children =common noun
+    (2)national anthem =common noun
+
+42. He owns a fleet of cars.
+  (1) fleet of cars =concrete noun
+
+43. The lion is the king of beasts.
+     (1) lion =proper noun
+     (2) beast =common noun
+
+44. Greenland is the largest island.
+      (1) Greenland =proper noun
+      (2) island =common noun
+
+
+
+         ----------          verbs      -------------
+
+
+1. go  → went →  gone
+2. say → said →  said
+3. do  → did  →  done
+4. come→ came → came
+5. have → ha → had
+6. stand → stood → stood
+7. make → made → made
+8. buy → bougt →bought
+9. sit → sat →sat
+10. swim → swam→sweem
+11. speak → spoke →spoke
+12. see → saw → seen
+13. write → wrote → written
+14. sing → sang → sung
+15. run → ran→ ran
+16. catch → caught →caght
+17. tell →told → told
+18. understand → understood→ understood
+19. cut → cut→ cut
+20. ring → rang→ rang
+21. eat → ate→ eatten
+22. wear → wear→ wear
+23. put → put→ put
+24. sell → sold→ sold
+25. think → thought→ thought
+26. drive → drove→ drivven
+27. win → won → won
+28. drink → drunk → drunken
+29. break → broke → broken
+
+
+
+
+

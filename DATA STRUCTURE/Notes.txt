@@ -1,0 +1,32 @@
+Data structure is a way to store and organize data.
+
+->data structure all topics
+-----------------------
+(1)Array.
+(2)pointer.
+(3)Structure.
+(4)Linked list
+(5)Stack
+(6)Queue
+(7)Graph
+(8)Searching Program
+(9)Sorting program
+
+
+->what is data structure?
+-----------------------
+-The data structure Organizing the data in memory
+-there are many ways to organizing data in the memory
+-one of them example is an Araay in c language
+-Array is a collection of memory elements in which data is stored Sequentially
+---------------------------
+  ---use----
+->we can use in any programming language to structure the data in he memory
+->algorithms are known as Abstract Data Type
+
+
+
+
+-The data structure is not any programming language like c,c++,java.
+-it is a set of algoridhms
+-----------------
