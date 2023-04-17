@@ -15,7 +15,7 @@
 	
 */
 
-void main()
+int main()
 {
 	
 	int i,j,k;
@@ -34,5 +34,5 @@ void main()
 		printf("\n");
 	}
 	
-	
+	return 0;
 }

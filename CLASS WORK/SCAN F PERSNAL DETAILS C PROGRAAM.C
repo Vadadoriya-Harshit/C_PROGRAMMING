@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
 	int age;
 	char name[50];
@@ -20,7 +20,7 @@ void main()
 	printf("\nAge is : %d",age);
 	printf("\nSalary is : %.2f",salary);
 	
-	
+	return 0;
 }
 
 
